@@ -1,0 +1,10 @@
+title: Tim Fulton - Videographer
+description: Tim Fulton is a videographer and editor originally from Minneapolis, now working in Los Angeles
+url: timfultonfilms.com
+author: Tim Fulton
+social:
+  name: Tim Fulton
+  links:
+    - https://instagram.com/fulton7
+plugins:
+  - jekyll-seo-tag
